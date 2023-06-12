@@ -1,3 +1,5 @@
+![Python](desbloqueando_python.png "Python")
+
 # Python
 
 ¡Bienvenido a Desbloqueando Python! 
