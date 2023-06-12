@@ -8,8 +8,8 @@ Este es un espacio donde desglosamos y desmitificamos Python, uno de los lenguaj
 
 ## Notas
 
-[Colab Notebook](https://colab.research.google.com/drive/1aFPCcKksdzt-6lkLqzzbg79VDTAjV84-?usp=sharing)
-[Guía](https://www.programiz.com/python-programming)
+- [Colab Notebook](https://colab.research.google.com/drive/1aFPCcKksdzt-6lkLqzzbg79VDTAjV84-?usp=sharing)
+- [Guía](https://www.programiz.com/python-programming)
 
 ## Videos
 
