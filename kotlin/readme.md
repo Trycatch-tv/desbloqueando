@@ -8,8 +8,8 @@ Este es un espacio donde desglosamos y desmitificamos Kotlin, uno de los lenguaj
 
 ## Notas
 
-[Guía]([https://www.programiz.com/python-programming](https://play.kotlinlang.org/byExample/overview))
-[Complemento](https://play.kotlinlang.org/koans/overview)
+- [Guía](https://play.kotlinlang.org/byExample/overview)
+- [Complemento](https://play.kotlinlang.org/koans/overview)
 
 ## Videos
 
